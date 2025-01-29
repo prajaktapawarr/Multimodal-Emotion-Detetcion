@@ -1,5 +1,6 @@
 # MULTIMODAL-EMOTION-DETECTION
-A Website which determines the emotion based on different inputs such as text audio video and image. It is a Multimodal Emotion detection Web Application
+About
+The Emotion Detection System is an AI-based project that analyzes and classifies human emotions from text, speech, or facial expressions. It leverages NLP for text, deep learning for facial analysis, and speech processing for audio-based detection. The system is useful in sentiment analysis, mental health monitoring, and human-computer interaction.
 
 
 
