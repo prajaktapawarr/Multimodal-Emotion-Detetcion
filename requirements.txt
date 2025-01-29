@@ -1,0 +1,7 @@
+Flask
+tensorflow
+numpy
+pandas
+opencv-python
+librosa
+pickle-mixin
